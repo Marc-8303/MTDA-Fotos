@@ -1,4 +1,4 @@
-<h1 align="left">Sobre el Proyecto: MTDA Fotos (Metadatos en las fotos) 🤔</h1>
+<h1 align="left">Proyecto 02: MTDA Fotos (Metadatos en las fotos) 🤔</h1>
 
 ###
 
