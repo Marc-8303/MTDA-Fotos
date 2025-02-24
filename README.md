@@ -1,5 +1,3 @@
-# MTDA-Fotos
-
 <h1 align="left">Sobre el Proyecto: MTDA Fotos (Metadatos en las fotos) 🤔</h1>
 
 ###
